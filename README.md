@@ -68,11 +68,19 @@ My goal is to help organizations make **smarter, data-backed decisions**.
 
 ### 📊 Business Intelligence
 <p>
-  <img src="https://drive.google.com/file/d/1bWn2Sem3Imy02O0GjIhm3P0Bk07aCoZv/view?usp=sharing" width="40"/>
+  <!-- Tableau -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="125"/>
+
+  <!-- Power BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
-  <img src="https://drive.google.com/file/d/18ieB2O2pEnw7lp0tFXtK2KtIpx3xEGQ8/view?usp=sharing" width="40"/>
-  <img src="https://drive.google.com/file/d/1eSzC17NBmJjooPG5Hlm7FnQCujnhuV66/view?usp=sharing" width="40"/>
+
+  <!-- Microsoft Excel -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40"/>
+
+  <!-- Microsoft PowerPoint -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" width="40"/>
 </p>
+
 
 ### 🗄️ Database
 <p>
