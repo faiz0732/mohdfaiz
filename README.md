@@ -3,6 +3,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif" alt="MasterHead"/>
 </p>
 
+
 <!-- SIDE GIF -->
 <img align="right" alt="Analytics GIF" width="420" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"/>
 
