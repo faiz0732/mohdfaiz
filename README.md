@@ -68,10 +68,10 @@ My goal is to help organizations make **smarter, data-backed decisions**.
 
 ### 📊 Business Intelligence
 <p>
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40"/>
+  <img src="https://drive.google.com/file/d/1bWn2Sem3Imy02O0GjIhm3P0Bk07aCoZv/view?usp=sharing" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerpoint/microsoft_powerpoint-icon.svg" width="40"/>
+  <img src="https://drive.google.com/file/d/18ieB2O2pEnw7lp0tFXtK2KtIpx3xEGQ8/view?usp=sharing" width="40"/>
+  <img src="https://drive.google.com/file/d/1eSzC17NBmJjooPG5Hlm7FnQCujnhuV66/view?usp=sharing" width="40"/>
 </p>
 
 ### 🗄️ Database
