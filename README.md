@@ -6,10 +6,10 @@
 <!-- SIDE GIF -->
 <img align="right" alt="Analytics GIF" width="420" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"/>
 
-<h1 align="center">Hello 👋, I'm Mohd Faiz</h1>
+<h1 align="center">Hello 👋, I'm Mohammad Faiz</h1>
 
 <h3 align="center">
-Data & Business Analyst | Bengaluru, India 🇮🇳
+Data & Business Analyst | Bengaluru, India
 </h3>
 
 <div align="center">
@@ -40,6 +40,19 @@ I specialize in:
 - 🗄️ SQL, Python & Data Cleaning  
 
 My goal is to help organizations make **smarter, data-backed decisions**.
+
+---
+
+## 🌐 Portfolio
+
+🔗 **My Data Analytics Portfolio**  
+👉 https:// 
+
+📂 Includes:
+- 📊 Interactive Tableau & Power BI Dashboards  
+- 📈 Business Case Studies  
+- 🗄️ SQL & Python Analytics Projects  
+- 📑 KPI & Reporting Use-Cases  
 
 ---
 
@@ -83,19 +96,21 @@ My goal is to help organizations make **smarter, data-backed decisions**.
 
 ---
 
-## 📜 Professional Certifications
-- 🏅 **Google Data Analytics Professional Certificate** – Coursera  
-- 🏅 **IBM Data Analyst Professional Certificate** – Coursera  
-- 🧠 **Microsoft Automation & Advanced Excel with Copilot** – Coursera  
-- 📊 **Tableau Learning Partner – Business Analytics** – Coursera  
-- 🤖 **Tata: GenAI Powered Data Analytics Job Simulation** – Forage  
-- 🏢 **Deloitte Australia: Data Analytics Job Simulation** – Forage  
+## 📜 Professional Certifications (Click to View)
+- 🏅 [ExcelR Data Analyst Course Completion Certification - ExcelR](https://drive.google.com/file/d/17aSxbbJxS3sitLQ5ZG8AHvZCimpeOLvd/view?usp=sharing)
+- 🏅 [Google Data Analytics Professional Certificate – Coursera](https://drive.google.com/file/d/1LKDQMZRgV6P4Md6YqOznWKICPQiEuUhw/view?usp=sharing)
+- 🏅 [IBM Data Analyst Professional Certificate – Coursera](https://drive.google.com/file/d/1tol6H8AlqAv7CjlcN3pNiAwZFIZDeX6J/view?usp=sharing)
+- 🧠 [Microsoft Automation & Advanced Excel with Copilot – Coursera](https://drive.google.com/file/d/1_1Htp58N001_7RB-2ydsa0ZYJRjx9Geb/view?usp=sharing)
+- 📊 [Tableau Learning Partner – Business Analytics – Coursera](https://drive.google.com/file/d/1SRkVx4UU3JgcDgPlMc7PSqwENQxD_5oC/view?usp=sharing)
+- 🤖 [Tata: GenAI Powered Data Analytics Job Simulation – Forage](https://drive.google.com/file/d/1xJDLsWDqmkCb7KlZ8d1R50YjMAxUyvCp/view?usp=sharing)
+- 🏢 [Deloitte Australia: Data Analytics Job Simulation – Forage](https://drive.google.com/file/d/15s5vzt6s0md8hgtqbXcR_cRB1DUU0EgT/view?usp=sharing)
 
 ---
 
 ## 💼 Real-World Experience
 
-### 🏢 AI Variant — Data Analytics Intern (6 Months)
+### 🏢 AI Variant — Data Analytics Intern (6 Months) 
+[Internship Certificate](https://drive.google.com/file/d/1rKTfQj2lEycTRhXCdVk2IOqKWZQ7RcHT/view?usp=sharing)
 - Worked on **Tableau, Power BI, SQL & Python**
 - Created **interactive dashboards & reports**
 - Performed **data cleaning, analysis & visualization**
@@ -132,14 +147,3 @@ Explore my repositories for:
 - 📧 Email: faiz288fz@gmail.com  
 
 ---
-
-## 🔥 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiz288fz&layout=compact"/>
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=faiz288fz&show_icons=true"/>
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiz288fz"/>
-</p>
