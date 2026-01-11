@@ -1,67 +1,93 @@
-<h1 align="center">Hi there 👋 I'm Mohd Faiz</h1>
-
+<!-- TOP BANNER GIF -->
 <p align="center">
-  📊 Data & Business Analyst Intern at AI Variants &nbsp;|&nbsp; 📍 Bengaluru, India 🇮🇳
+  <img src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif" alt="MasterHead"/>
 </p>
 
-<p align="center">
+<!-- SIDE GIF -->
+<img align="right" alt="Analytics GIF" width="420" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"/>
+
+<h1 align="center">Hello 👋, I'm Mohd Faiz</h1>
+
+<h3 align="center">
+Data & Business Analyst | Bengaluru, India 🇮🇳
+</h3>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/mohd-faiz-51674a282/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohd%20Faiz-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mohd%20Faiz-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@faiz288fz">
+    <img src="https://img.shields.io/badge/Medium-faiz288fz-black?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   <a href="mailto:faiz288fz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-faiz288fz%40gmail.com-red?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-faiz288fz%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=faiz288fz&style=for-the-badge&color=blue"/>
+</div>
 
 ---
 
 ## 🚀 About Me
 
-💡 I am a **data-driven Data & Business Analyst** with a strong foundation in transforming  
+I am a **data-driven Data & Business Analyst** with a strong foundation in transforming  
 **complex datasets into actionable business insights**.
 
-📈 My passion lies in **Business Intelligence, Data Visualization, and Statistical Analysis**  
-to help organizations make **smarter, data-backed decisions**.
+I specialize in:
+- 📊 Business Intelligence & Dashboarding  
+- 📈 Data Visualization & Data Storytelling  
+- 🧮 Statistical Analysis  
+- 🗄️ SQL, Python & Data Cleaning  
+
+My goal is to help organizations make **smarter, data-backed decisions**.
 
 ---
 
-## 🧰 My Toolbelt
+## 🧠 Currently Learning
+- 📊 Advanced KPI Design & Business Metrics  
+- 📈 Dashboard Optimization (Tableau & Power BI)  
+- 🤖 Generative AI use-cases in Analytics  
+- 🧮 Business Statistics & Forecasting  
+
+---
+
+## 🧰 My Toolbelt (Data & Business Analytics)
 
 ### 📊 Business Intelligence
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+<p>
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerpoint/microsoft_powerpoint-icon.svg" width="40"/>
+</p>
 
 ### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40"/>
+</p>
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-
-### 🧠 Core Concepts
-✔ Data Cleaning  
-✔ Data Visualization  
-✔ Exploratory Data Analysis (EDA)  
+### 💻 Programming & Analysis
+<p>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40"/>
+  <img src="https://pandas.pydata.org/docs/_static/pandas.svg" width="60"/>
+  <img src="https://numpy.org/images/logo.svg" width="40"/>
+</p>
 
 ---
 
 ## 🏆 Accomplishments & Projects
-
 - 🎓 Completed **rigorous Data Analytics training**
-- 📊 Built **hands-on dashboards & analytical projects**
-- 🔍 Worked with **real-world datasets** across multiple domains
-- 🚀 Strong focus on **business problem-solving**
+- 📊 Built **real-world dashboards & analytical reports**
+- 📈 Delivered **actionable KPIs & business insights**
+- 🔍 Worked with **business-focused datasets**
 
 ---
 
 ## 📜 Professional Certifications
-
 - 🏅 **Google Data Analytics Professional Certificate** – Coursera  
 - 🏅 **IBM Data Analyst Professional Certificate** – Coursera  
-- 🧠 **Microsoft Automation & Advanced Techniques with Copilot in Excel** – Coursera  
-- 📊 **Tableau Learning Partner: Introduction to Business Analytics** – Coursera  
+- 🧠 **Microsoft Automation & Advanced Excel with Copilot** – Coursera  
+- 📊 **Tableau Learning Partner – Business Analytics** – Coursera  
 - 🤖 **Tata: GenAI Powered Data Analytics Job Simulation** – Forage  
 - 🏢 **Deloitte Australia: Data Analytics Job Simulation** – Forage  
 
@@ -69,31 +95,51 @@ to help organizations make **smarter, data-backed decisions**.
 
 ## 💼 Real-World Experience
 
+### 🏢 AI Variant — Data Analytics Intern (6 Months)
+- Worked on **Tableau, Power BI, SQL & Python**
+- Created **interactive dashboards & reports**
+- Performed **data cleaning, analysis & visualization**
+- Delivered **business insights for decision-making**
+
 ### 🏢 Tata (Forage)
 - GenAI Powered Data Analytics Job Simulation  
-- Business insights, data analysis & reporting  
+- Business insights, analytics & reporting  
 
 ### 🏢 Deloitte Australia (Forage)
-- Data Analytics Job Simulation  
 - Data cleaning, visualization & stakeholder reporting  
 
-### 🎓 ExcelR Institute
-- Completed **multiple industry-oriented projects**
-- Tools used: **Tableau, Power BI, MySQL & Python**
+---
+
+## 📂 Projects
+Explore my repositories for:
+- 📊 Business Intelligence Dashboards  
+- 📈 Data Analytics Case Studies  
+- 🗄️ SQL & Python Analysis Projects  
+
+---
+
+## 🤝 Ask Me About
+- Data & Business Analytics  
+- KPI Design & Dashboarding  
+- SQL & Data Cleaning  
+- Data Visualization & Storytelling  
 
 ---
 
 ## 🔗 Connect With Me
-
-- 💼 **LinkedIn**  
-  👉 https://www.linkedin.com/in/mohd-faiz-51674a282/
-
-- 📧 **Email**  
-  👉 faiz288fz@gmail.com  
-
-- 🌐 **Portfolio**  
-  👉 *Coming Soon*
+- 💼 LinkedIn: https://www.linkedin.com/in/mohd-faiz-51674a282/  
+- ✍️ Medium: https://medium.com/@faiz288fz  
+- 📧 Email: faiz288fz@gmail.com  
 
 ---
 
-⭐ *Open to opportunities, collaborations & impactful data projects!*  
+## 🔥 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiz288fz&layout=compact"/>
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=faiz288fz&show_icons=true"/>
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiz288fz"/>
+</p>
