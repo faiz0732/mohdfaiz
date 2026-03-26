@@ -47,7 +47,7 @@ My goal is to help organizations make **smarter, data-backed decisions**.
 ## 🌐 Portfolio
 
 🔗 **My Data Analytics Portfolio**  
-👉 https:// 
+👉 https://portfolio-omega-azure-41.vercel.app/
 
 📂 Includes:
 - 📊 Interactive Tableau & Power BI Dashboards  
